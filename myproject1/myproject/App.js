@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
      marginTop:12
   },
   header:{
-    backgroundColor:'#0711ae',
+    backgroundColor:'#348ee3',
     padding:12,
   },
   hearder_text:{
